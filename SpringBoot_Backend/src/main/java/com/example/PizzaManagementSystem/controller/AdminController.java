@@ -2,7 +2,6 @@ package com.example.PizzaManagementSystem.controller;
 
 import com.example.PizzaManagementSystem.model.Pizza;
 import com.example.PizzaManagementSystem.model.Supplier;
-import com.example.PizzaManagementSystem.repository.SupplierRepository;
 import com.example.PizzaManagementSystem.service.PizzaService;
 import com.example.PizzaManagementSystem.service.SupplierService;
 import lombok.AllArgsConstructor;
