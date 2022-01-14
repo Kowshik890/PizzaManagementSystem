@@ -1,7 +1,7 @@
 # Pizza Management System Project
 ## This Project is developing using Angular, Spring Boot and PostgreSQL. API documentation will be completed using "Swagger".
 
-### Here is the link of the API Documentation from Swagger.
+### Here is the link of the API Documentation using Swagger.
 
 
 ### This Project is segregated into 2 parts. One is Admin and another one is Customer.
